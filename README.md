@@ -69,7 +69,9 @@ Conversion probabilities are intentionally close between variants to reflect rea
 
 ##### Summary
 
-[A/B Test Summary Table](/images/summary.png)
+![A/B Test Summary Table](/images/summary.png)
+
+---
 
 ## Tech Stack
 
